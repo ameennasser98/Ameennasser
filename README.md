@@ -31,7 +31,7 @@ Detail-oriented **QA Engineer** and **IT Support Specialist**. Skilled in softwa
 [![LinkedIn](https://shields.io)](https://ye.linkedin.com/in/ameen-nasser-0b5a41266)
 - 📧 **Email:** ameennasser98@gmail.com
 - 📞 **Phone:** +967777907529
-- 📬 Telegram:@AmeenNasser
+- 📬 Telegram:t.me/AmeenNasser
 
 ---
 
