@@ -36,5 +36,5 @@ Detail-oriented **QA Engineer** and **IT Support Specialist**. Skilled in softwa
 
 ### 🎓 Education & Certifications
 - **B.Sc. in Information Technology** | Sana'a University
-- **CCNA & MCSA** Certified
+- **CCNA & MCSA** 
 - **Time and Stress Management** Certified
