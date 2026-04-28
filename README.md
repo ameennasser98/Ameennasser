@@ -1,4 +1,4 @@
-ما # Hi there, I'm Ameen Nasser 👋
+# Hi there, I'm Ameen Nasser 👋
 
 ### 👨‍💻 Professional Summary
 Detail-oriented **QA Engineer** and **IT Support Specialist**. Skilled in software testing, system analysis, and technical troubleshooting. I focus on ensuring system reliability, improving performance, and resolving complex technical issues.
@@ -28,9 +28,9 @@ Detail-oriented **QA Engineer** and **IT Support Specialist**. Skilled in softwa
 ---
 
 ### 📫 Connect with me
+[![LinkedIn](https://shields.io)](https://ye.linkedin.com/in/ameen-nasser-0b5a41266)
 - 📧 **Email:** ameennasser98@gmail.com
 - 📞 **Phone:** +967777907529
-- 💼 **Field:** Information Technology / QA Engineering
 
 ---
 
